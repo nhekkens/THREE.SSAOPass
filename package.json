@@ -1,0 +1,28 @@
+{
+  "name": "three.ssaopass",
+  "version": "1.0.0",
+  "description": "THREE.SSAOPass npm support",
+  "main": "THREE.SSAOPass.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhekkens/THREE.SSAOPass.git"
+  },
+  "keywords": [
+    "Three",
+    "SSAOPass",
+    "SSAO",
+    "Ambient",
+    "Occlusion",
+    "webgl_postprocessing_ssao",
+    "WebGl"
+  ],
+  "author": "Nicolay Hekkens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhekkens/THREE.SSAOPass/issues"
+  },
+  "homepage": "https://github.com/nhekkens/THREE.SSAOPass#readme"
+}
